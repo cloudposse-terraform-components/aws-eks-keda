@@ -6,7 +6,7 @@ tags:
   - provider/helm
 ---
 
-# Component: `eks`
+# Component: `eks-keda`
 
 This component is used to install the KEDA operator.
 
